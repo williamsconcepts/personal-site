@@ -1,8 +1,8 @@
-![JDCastro Logo with twitter, instagram, facebook, github icons: @jacobdcastro](https://boobae.blog/page-meta-img-cropped.jpg)
+![JDCastro Logo with twitter, instagram, facebook, github icons: @williamsconcepts](https://boobae.blog/page-meta-img-cropped.jpg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a6ece036-6f89-40d5-abf5-f7d781fc78c4/deploy-status)](https://app.netlify.com/sites/jacobdcastro/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1fa96af5-969b-4e48-8e64-13d192b13960/deploy-status)](https://app.netlify.com/sites/dreamy-lamarr-f9ed6e/deploys)
 
-# Jacob Daniel Castro Personal Site
+# Boo & Bae Personal Site
 
 > Version 3.0 is currently in the works!
 
