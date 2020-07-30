@@ -66,7 +66,7 @@ exports.createPages = async ({ graphql, actions }) => {
   }
 
   // reuse blogPostTemplate from above
-  const blogPostTemplate = path.resolve('./src/templates/blogPost.js');
+  // const blogPostTemplate = path.resolve('./src/templates/blogPost.js');
 
   tutorialRes.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
