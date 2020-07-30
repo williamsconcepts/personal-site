@@ -15,12 +15,20 @@
       "url": "https://boobae.blog/"
     }
   ],
+
+  "publishConfig": { "registry": "https://npm.pkg.github.com/"
+    
+    
+  
+  },
+
   "scripts": {
     "start": "gatsby develop",
     "dev": "gatsby develop",
     "build": "gatsby build",
     "format": "prettier --write \"**/*.{js,json,md}\" \"!node_modules/**\" \"!public/**\"",
     "test": "jest --watchAll"
+    
   },
   "keywords": [
     "gatsby",
