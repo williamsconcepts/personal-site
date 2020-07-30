@@ -1,7 +1,7 @@
 // ? loaded in gatsby-config.js for gatsby-plugin-robots-txt
 
 const NODE_ENV = process.env.NODE_ENV;
-const NETLIFY_SITE_URL = process.env.URL || 'https://jacobdcastro.com/';
+const NETLIFY_SITE_URL = process.env.URL || 'https://boobae.blog/';
 const NETLIFY_DEPLOY_URL = process.env.DEPLOY_PRIME_URL || NETLIFY_SITE_URL;
 const NETLIFY_ENV = process.env.CONTEXT || NODE_ENV;
 

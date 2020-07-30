@@ -13,7 +13,7 @@ const Blog = ({ path, data }) => {
     description:
       // eslint-disable-next-line quotes
       "I like writing about things. Life updates, random epiphanies, cool lessons, etc. Find 'em here!",
-    url: 'https://jacobdcastro.com/blog',
+    url: 'https://boobae.blog/blog',
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
       'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',

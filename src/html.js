@@ -25,7 +25,7 @@ export default class HTML extends React.Component {
           <noscript>
             Umm, sorry. But my website works best when you have Javascript
             turned on. You've got it turned off! Flip the switch for the best
-            experience. - Jacob D. Castro
+            experience. - Boo & Bae
           </noscript>
         </body>
       </html>

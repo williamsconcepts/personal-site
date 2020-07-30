@@ -28,7 +28,7 @@ const blogPost = ({ path, data }) => {
       page: `${type}`,
       title: `${title}`,
       description: `${data.markdownRemark.excerpt}`,
-      url: `https://jacobdcastro.com/${slug}`,
+      url: `https://boobae.blog/${slug}`,
       imgUrl: `${data.file.publicURL}`,
       imgAlt: `${data.file.imageAlt}`,
       breadcrumbs: [
@@ -47,7 +47,7 @@ const blogPost = ({ path, data }) => {
       page: `${type}`,
       title: `${title}`,
       description: `${data.markdownRemark.excerpt}`,
-      url: `https://jacobdcastro.com/${slug}`,
+      url: `https://boobae.blog/${slug}`,
       imgUrl: `${data.file.publicURL}`,
       imgAlt: `${data.file.imageAlt}`,
       breadcrumbs: [
@@ -98,7 +98,7 @@ const blogPost = ({ path, data }) => {
 
         <div className="closing">
           <JDCLogo />
-          <h3>- Jacob D. Castro</h3>
+          <h3>- Boo & Bae</h3>
         </div>
       </BlogPostPageWrapper>
     </Layout>

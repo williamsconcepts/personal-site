@@ -58,7 +58,7 @@ In your repository's settings, there will be an option to change the default bra
 
 On Github: settings > branches > set default branch (to main)
 
-![Screenshot of changing default branch in Github settings](https://jacobdcastro.com/content/images/master-branch/github-change-branch.png "Github Default Branch Settings")
+![Screenshot of changing default branch in Github settings](https://boobae.blog/content/images/master-branch/github-change-branch.png "Github Default Branch Settings")
 
 On another git repository hosting platform such as GitLab or BitBucket, this may be different. Take a look in the settings, it will be there somewhere.
 
@@ -66,7 +66,7 @@ On another git repository hosting platform such as GitLab or BitBucket, this may
 
 From your repository's home page, click the 'branches' link (button next to total number of commits). It will take you to a page listing all of your project's branches. Click the little trash icon to delete the master branch. And boom, no more master in your repository!
 
-![Screenshot of deleting master branch on Github](https://jacobdcastro.com/content/images/master-branch/github-delete-branch.png "Github Delete Branches")
+![Screenshot of deleting master branch on Github](https://boobae.blog/content/images/master-branch/github-delete-branch.png "Github Delete Branches")
 
 ### 5. Double Check Hosting Settings
 

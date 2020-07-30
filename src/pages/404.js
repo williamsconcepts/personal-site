@@ -28,7 +28,7 @@ const NotFound = () => {
     page: `404`,
     title: 'Page Not Found',
     description: `Big oops, much sorry. You've hit a route that doesn't exist!`,
-    url: `https://jacobdcastro.com`,
+    url: `https://boobae.blog`,
     imgUrl: ``,
     breadcrumbs: [],
   };

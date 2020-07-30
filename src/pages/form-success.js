@@ -11,7 +11,7 @@ const FormSuccess = ({ path }) => {
     description:
       // eslint-disable-next-line quotes
       "Let's chat! I'm open to lots of new opportunities, freelance or a fulltime position.",
-    url: 'https://jacobdcastro.com/form-success',
+    url: 'https://boobae.blog/form-success',
     // imgUrl: `${data.pageImg.publicURL}`,
     // imgAlt:
     //   'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',

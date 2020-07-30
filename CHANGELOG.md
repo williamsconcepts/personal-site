@@ -107,8 +107,8 @@ Blog posts edits (typos, code snippets, content embeds, etc.) will be included i
 
 ### Added
 
-- Contact page ([jacobdcastro.com/contact](https://jacobdcastro.com/contact))
-- Contact form success page ([jacobdcastro.com/form-success](https://jacobdcastro.com/form-success))
+- Contact page ([boobae.blog/contact](https://boobae.blog/contact))
+- Contact form success page ([boobae.blog/form-success](https://boobae.blog/form-success))
 - Encode function for encoding axios requests (src/utils/encode.js)
 - Prop type checking on all components w/ PropTypes
 - Netlify environment checking, preventing crawling on branch/preview deploys (gatsby-config.js)

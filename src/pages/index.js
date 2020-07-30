@@ -25,7 +25,7 @@ const Index = ({ path, data }) => {
     page: 'index',
     title: '',
     description: `${miniBio}`,
-    url: 'https://jacobdcastro.com',
+    url: 'https://boobae.blog',
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
       'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',

@@ -1,10 +1,10 @@
 ---
 lastUpdated: "2019-08-13"
 title: "Biography"
-name: "Jacob D. Castro"
+name: "Boo & Bae"
 email: "jdcastro.business@gmail.com"
 phone: "+1 (805) 878-5378"
-url: "https://jacobdcastro.com"
+url: "https://boobae.blog"
 miniBio: "A full-stack web developer. Works with technologies including HTML + CSS, JavaScript, React, GraphQL, Node.js, Express, and MongoDB."
 portrait: ""
 handle: "@jacobdcastro"

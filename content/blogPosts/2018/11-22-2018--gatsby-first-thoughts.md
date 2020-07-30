@@ -89,7 +89,7 @@ exports.createPages = ({ graphql, actions }) => {
 };
 ```
 
-Creating the pages is super easy with the `createPages` Gatsby API. Not to mention, Contentful can automatically generate a slug for the URL. On my project, I have the slugs set to be the title of the blog post. For example, a blog post titled "Hello World In Javascript" would have its own page at jacobdcastro.com/blog/hello-world-in-javascript/. These tools make it so easy!
+Creating the pages is super easy with the `createPages` Gatsby API. Not to mention, Contentful can automatically generate a slug for the URL. On my project, I have the slugs set to be the title of the blog post. For example, a blog post titled "Hello World In Javascript" would have its own page at boobae.blog/blog/hello-world-in-javascript/. These tools make it so easy!
 
 Once the pages are created behind the scenes in Gatsby, it uses a template to generate the markup for each page. So each blog post page is based on the same template. I love reusing code.
 

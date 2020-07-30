@@ -7,7 +7,7 @@ exports.handler = (event, context, callback) => {
   const formData = JSON.parse(event.body);
 
   // 1. check to see if user is already subscribed
-  //    to Jacob D. Castro Newsletter list
+  //    to Boo & Bae Newsletter list
   axios({
     method: 'GET',
     url: `https://us3.api.mailchimp.com/3.0/lists/346f10540c/members/${md5(

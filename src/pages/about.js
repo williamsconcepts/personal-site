@@ -9,7 +9,7 @@ const About = ({ path, data }) => {
     page: 'about',
     title: 'About Me',
     description: `${data.me.childMarkdownRemark.excerpt}`,
-    url: 'https://jacobdcastro.com/about',
+    url: 'https://boobae.blog/about',
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
       'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',

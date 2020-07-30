@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Jacob D. Castro',
-    siteUrl: 'https://jacobdcastro.com',
+    title: 'Boo & Bae',
+    siteUrl: 'https://boobae.blog',
   },
 
   pathPrefix: '/blog',
@@ -13,7 +13,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Jacob D. Castro',
+        name: 'Boo & Bae',
         short_name: 'JDCastro',
         start_url: '/',
         background_color: '#000',
@@ -61,7 +61,7 @@ module.exports = {
         // Any additional create only fields (optional)
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        // cookieDomain: `jacobdcastro.com`,
+        // cookieDomain: `boobae.blog`,
       },
     },
     {
