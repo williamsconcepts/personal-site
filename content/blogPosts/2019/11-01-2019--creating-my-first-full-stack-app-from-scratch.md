@@ -68,7 +68,7 @@ I honestly enjoyed every second of the setbacks. I was determined beyond explana
 
 By far the biggest obstacle was trying to clean up a lack of planning the server. I wouldn't have even known how to "plan" the development of this server before just... doing it. But I got over it. And it was finally time to whip up the frontend!
 
-Feel free to check out the live project at this [randomly generated Heroku URL](https://howling-nightmare-39429.herokuapp.com/) or peek into the [repo on Github](https://github.com/jacobdcastro/gamenightscore)!
+Feel free to check out the live project at this [randomly generated Heroku URL](https://howling-nightmare-39429.herokuapp.com/) or peek into the [repo on Github](https://github.com/williamsconcepts/gamenightscore)!
 
 In the next blog post, I'll tell my story of developing the React app and some of the hardships I faced there. Follow me on Twitter ([@jacobdcastro](https://twitter.com/jacobdcastro/)) and look out for the announcement of the next blog posts! In the next two parts to this, I'll be talking about my journey on the frontend, and then a more in-depth look into the code base and how the app works technically.
 

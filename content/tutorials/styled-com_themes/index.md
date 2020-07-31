@@ -5,7 +5,7 @@ subtitle: "A tutorial on React and CSS-in-JS"
 image: "cover-photo.png"
 imageTitle: "create-react-app page"
 imageAlt: "create-react-app page with theme toggle button"
-repo: "https://github.com/jacobdcastro/styled-components-theme-tutorial"
+repo: "https://github.com/williamsconcepts/styled-components-theme-tutorial"
 liveLink: "https://nostalgic-perlman-000288.netlify.com/"
 date: "2019-08-23T00:00:00-07:00"
 tags:
@@ -25,7 +25,7 @@ So here, I'm going to explain how to do this with styled-components using the th
 
 Let's add a dark/light theme switch to the create-react-app default index page!
 
-You can check out the final version of what we'll make [here](https://nostalgic-perlman-000288.netlify.com/)! The code is also on my Github! See the code [here](https://github.com/jacobdcastro/styled-components-theme-tutorial).
+You can check out the final version of what we'll make [here](https://nostalgic-perlman-000288.netlify.com/)! The code is also on my Github! See the code [here](https://github.com/williamsconcepts/styled-components-theme-tutorial).
 
 Now let's get started. Feel free to follow along!
 
@@ -585,7 +585,7 @@ We:
 
 Easy right? It's pretty fun.
 
-Again, you can view the [code on Github](https://github.com/jacobdcastro/styled-components-theme-tutorial) or my final version on the web [here](https://nostalgic-perlman-000288.netlify.com/)!
+Again, you can view the [code on Github](https://github.com/williamsconcepts/styled-components-theme-tutorial) or my final version on the web [here](https://nostalgic-perlman-000288.netlify.com/)!
 
 Thank you so much for checking this out. And I hope this helps on your own projects!!!
 

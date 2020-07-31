@@ -28,7 +28,7 @@ const Index = ({ path, data }) => {
     url: 'https://boobae.blog',
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
-      'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',
+      'jdcastro logo, twitter, instagram, facebook, github icons with @williamsconcepts username',
     breadcrumbs: [],
   };
 
@@ -37,9 +37,9 @@ const Index = ({ path, data }) => {
       <IndexPageWrapper>
         <div className="indexIntro">
           <h1 className="headline">
-            I'm Jacob Daniel Castro,
-            <br />a fullstack JavaScript
-            <br /> developer.
+            I'm BooBae,
+            <br />a software
+            <br /> engineer.
           </h1>
           <ul className="introSocialLinks">
             <li>

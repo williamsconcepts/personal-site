@@ -51,7 +51,7 @@ const Header = () => {
             </li>
             <li>
               <Link activeClassName="activePage" to="/contact">
-                Contact
+                Say Hi
               </Link>
             </li>
           </ul>

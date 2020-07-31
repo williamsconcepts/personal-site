@@ -81,9 +81,9 @@ const Footer = () => {
       <AnnouncementBanner />
       <span className="typoSpan">
         See a typo or want to contribute?{' '}
-        <a href="mailto:jdcastro.business@gmail.com">Email me</a> or submit a PR
+        <a href="mailto:boobaeblog@gmail.com">Email me</a> or submit a PR
         or issue on{' '}
-        <a href="https://github.com/jacobdcastro/personal-site/" rel="noopener">
+        <a href="https://github.com/williamsconcepts/personal-site/" rel="noopener">
           the Github repo
         </a>
         !
@@ -93,7 +93,7 @@ const Footer = () => {
 
       <span>
         Let's connect! <br />
-        Email me: <a href="mailto:jdcastro.business@gmail.com">{email}</a>
+        Email me: <a href="mailto:boobaeblog@gmail.com">{email}</a>
         <br />
         or{' '}
         <span>
@@ -126,13 +126,13 @@ const Footer = () => {
       </div>
 
       <a
-        href="https://github.com/jacobdcastro/personal-site/releases"
+        href="https://github.com/williamsconcepts/personal-site/releases"
         rel="noopener"
       >
         v2.3.5
       </a>
       <a href={`${url}/sitemap.xml`}>Sitemap</a>
-      <small>&copy;{new Date().getFullYear()} - JDCastro Digital</small>
+      <small>&copy;{new Date().getFullYear()} - BooBaeBlog</small>
     </FooterWrapper>
   );
 };
