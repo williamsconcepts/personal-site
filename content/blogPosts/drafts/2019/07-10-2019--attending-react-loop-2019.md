@@ -43,6 +43,6 @@ Yeah, I hadn't learned hooks yet.. My bad.
 
 But I did while I was there! Seeing people live code as well as discuss the major "why" behind Hooks was so interesting. I've been so excited to update this website to use React Hooks in some areas. I probably won't rewrite every components to use Hooks but I'll definitely not be using classes from here on out. State management in lower level components just solves a lot of problems that I had when building some parts of this website.
 
-I'll write about my experience using hooks on this site in a later blog post, so keep an eye out on my twitter for that announcement ([@jacobdcastro](https://twitter.com/jacobdcastro "Jacob's twitter profile")).
+I'll write about my experience using hooks on this site in a later blog post, so keep an eye out on my twitter for that announcement ([@boobaeblog](https://twitter.com/jacobdcastro "Jacob's twitter profile")).
 
 I'll also post a part 2 continuing things I learned in my time in Chicago. Thanks so much for reading! Have a fantastic day.

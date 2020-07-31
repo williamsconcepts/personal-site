@@ -9,13 +9,13 @@ import BlogListing from '../components/index/BlogListing';
 const Tutorials = ({ path, data }) => {
   const seo = {
     page: 'tutorials',
-    title: 'Tutorials',
+    title: 'How To',
     description:
       // eslint-disable-next-line quotes
-      "I love learning things!! These are me restating what I've learned to you peeps, in hopes of solidifying my learning and lending a hand along the way.",
+      "We love learning new things!! These are me restating what I've learned to you peeps, in hopes of solidifying my learning and lending a hand along the way.",
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
-      'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',
+      'jdcastro logo, twitter, instagram, facebook, github icons with @boobaeblog username',
     breadcrumbs: [
       {
         name: 'Tutorials',
@@ -27,7 +27,7 @@ const Tutorials = ({ path, data }) => {
   return (
     <Layout seo={seo} path={path}>
       <TutorialsPageWrapper>
-        <h1>Tutorials</h1>
+        <h1>How To ...</h1>
         <div className="tutorialsList">
           {data.allMarkdownRemark.edges.map(({ node }) => (
             <BlogListing key={node.id} data={node} />

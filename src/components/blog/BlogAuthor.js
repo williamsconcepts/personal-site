@@ -50,8 +50,8 @@ const BlogAuthor = () => {
           title="Boo & Bae"
           alt="photo from side of me looking left with sunset beach in background"
           style={{
-            height: '80px',
-            width: '80px',
+            height: '50px',
+            width: '50px',
             borderRadius: '100%'
           }}
         />

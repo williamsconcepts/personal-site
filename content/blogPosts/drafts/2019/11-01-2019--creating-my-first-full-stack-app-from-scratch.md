@@ -70,6 +70,6 @@ By far the biggest obstacle was trying to clean up a lack of planning the server
 
 Feel free to check out the live project at this [randomly generated Heroku URL](https://howling-nightmare-39429.herokuapp.com/) or peek into the [repo on Github](https://github.com/williamsconcepts/gamenightscore)!
 
-In the next blog post, I'll tell my story of developing the React app and some of the hardships I faced there. Follow me on Twitter ([@jacobdcastro](https://twitter.com/jacobdcastro/)) and look out for the announcement of the next blog posts! In the next two parts to this, I'll be talking about my journey on the frontend, and then a more in-depth look into the code base and how the app works technically.
+In the next blog post, I'll tell my story of developing the React app and some of the hardships I faced there. Follow me on Twitter ([@boobaeblog](https://twitter.com/jacobdcastro/)) and look out for the announcement of the next blog posts! In the next two parts to this, I'll be talking about my journey on the frontend, and then a more in-depth look into the code base and how the app works technically.
 
 Thanks for reading!!!

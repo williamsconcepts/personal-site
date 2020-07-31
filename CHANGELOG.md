@@ -199,7 +199,7 @@ Blog posts edits (typos, code snippets, content embeds, etc.) will be included i
 ### Changed
 
 - All icons are now SVG filetypes
-- New visual identity by [@jacobdcastro](https://github.com/williamsconcepts).
+- New visual identity by [@boobaeblog](https://github.com/williamsconcepts).
 - Styles folder containing styled-components code instead of styled-components code in same file as components in which it's styling.
 
 ### Removed

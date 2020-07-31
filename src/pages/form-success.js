@@ -14,7 +14,7 @@ const FormSuccess = ({ path }) => {
     url: 'https://boobae.blog/form-success',
     // imgUrl: `${data.pageImg.publicURL}`,
     // imgAlt:
-    //   'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',
+    //   'jdcastro logo, twitter, instagram, facebook, github icons with @boobaeblog username',
     breadcrumbs: [
       {
         name: 'Contact',

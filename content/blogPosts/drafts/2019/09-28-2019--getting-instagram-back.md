@@ -29,7 +29,7 @@ This really really really sucked. Like, really sucked. Not because I was gonna l
 
 I was worried to lose my username.
 
-@jacobdcastro
+@boobaeblog
 
 I use the same username on every account I make. I didn't want to rebrand. I hated the thought of losing that consistency.
 

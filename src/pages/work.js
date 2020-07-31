@@ -11,7 +11,7 @@ const Work = ({ path, data }) => {
     description: `Some project examples of mine. Ranging from personal side projects to paid client projects, I've had a lot of fun!`,
     // imgUrl: `${data.pageImg.publicURL}`,
     // imgAlt:
-    //   'jdcastro logo, twitter, instagram, facebook, github icons with @jacobdcastro username',
+    //   'jdcastro logo, twitter, instagram, facebook, github icons with @boobaeblog username',
     breadcrumbs: [
       {
         name: `Work`,

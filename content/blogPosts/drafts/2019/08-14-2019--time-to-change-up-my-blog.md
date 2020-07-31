@@ -82,7 +82,7 @@ Out with the old, in with the new. I'm ditching Contentful for my own methods of
 
 It's so cool to observe my own progress. Now time to enjoy the adventure of personal-site 2.0.
 
-If you'd like to follow my progress, stay tuned to this blog! I'll share new posts on my social media. You can follow me anywhere at @jacobdcastro. Or click the icons below for your preferred social network.
+If you'd like to follow my progress, stay tuned to this blog! I'll share new posts on my social media. You can follow me anywhere at @boobaeblog. Or click the icons below for your preferred social network.
 
 Please check out the [Github repo](https://github.com/williamsconcepts/personal-site "Website Repository") too! I'm super open to feedback and pull requests are always welcome!
 
