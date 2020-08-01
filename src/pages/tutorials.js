@@ -62,7 +62,7 @@ export const TUTORIALS_PAGE_QUERY = graphql`
             title
             date
             
-            repo
+            
             type
           }
         }

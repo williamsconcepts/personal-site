@@ -63,7 +63,7 @@ export const BLOG_PAGE_QUERY = graphql`
             title
             date
             
-            repo
+            
             type
             tags
           }
