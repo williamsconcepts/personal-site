@@ -29,4 +29,4 @@ The 2 concepts you focus on are:
 - What I do is flexible so that I am the best at it.
 - Keep this in mind and keep applying it. Until you've found something that resonates with you and keeps you authentic.
 
-Much love.
+Much love Peeps.
