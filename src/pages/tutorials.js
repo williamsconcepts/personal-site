@@ -61,7 +61,7 @@ export const TUTORIALS_PAGE_QUERY = graphql`
             slug
             title
             date
-            liveLink
+            
             repo
             type
           }

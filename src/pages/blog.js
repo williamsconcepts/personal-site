@@ -62,7 +62,7 @@ export const BLOG_PAGE_QUERY = graphql`
             slug
             title
             date
-            liveLink
+            
             repo
             type
             tags
