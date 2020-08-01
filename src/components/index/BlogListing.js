@@ -23,7 +23,7 @@ const BlogListing = ({ data }) => {
         aria-label={`Read Blog post: ${frontmatter.title}`}
       >
         <h2>
-          {frontmatter.type === 'tutorial' && '[Tutorial] '}
+          {frontmatter.type === 'tutorial' && '[Tips] '}
           {frontmatter.title}
         </h2>
         <ul>
@@ -35,7 +35,7 @@ const BlogListing = ({ data }) => {
             ))}
         </ul>
         <h3>
-          Published: <Moment date={frontmatter.date} format="MMMM DD, YYYY" />
+          Published:  <Moment date={frontmatter.date} format="MMMM DD, YYYY" />
         </h3>
         <p>{excerpt}</p>
         {data.timeToRead &&
@@ -45,7 +45,7 @@ const BlogListing = ({ data }) => {
             <h4>{data.timeToRead} minute read</h4>
           ))}
         <div className="readMore">
-          <p>Read</p>
+          <p>Read More</p>
           <RightArrow />
         </div>
       </Link>

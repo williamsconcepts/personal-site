@@ -37,9 +37,9 @@ const Index = ({ path, data }) => {
       <IndexPageWrapper>
         <div className="indexIntro">
           <h1 className="headline">
-            Boo just codes,
-            <br />Bae creates,
-            <br />Blog contents.
+            Boo codes,
+            <br />Bae blogs,
+            <br />We create contents.
           </h1>
           <ul className="introSocialLinks">
             <li>
@@ -107,7 +107,7 @@ const Index = ({ path, data }) => {
 
         {/* Blog posts */}
         <div id="recentPublications">
-          <h1>All Recent Publications</h1>
+          <h1>All Recent Tips</h1>
 
           {data.allMarkdownRemark.edges.map(({ node }) => (
             <BlogListing key={node.id} data={node} />
