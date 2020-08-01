@@ -45,7 +45,7 @@ const BlogListing = ({ data }) => {
             <h4>{data.timeToRead} minute read</h4>
           ))}
         <div className="readMore">
-          <p>Read More</p>
+          <p>Read</p>
           <RightArrow />
         </div>
       </Link>

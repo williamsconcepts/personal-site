@@ -41,7 +41,7 @@ const Header = () => {
             </li>
             <li>
               <Link activeClassName="activePage" to="/tutorials">
-                How To ...
+                Tips
               </Link>
             </li>
             <li>

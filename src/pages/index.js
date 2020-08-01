@@ -173,7 +173,7 @@ export const INDEX_PAGE_QUERY = graphql`
       publicURL # used for SEO
     }
 
-    resume: file(relativePath: { eq: "content/JDCastro_Resume_Nov2019.pdf" }) {
+    resume: file(relativePath: { eq: "content/resume.pdf" }) {
       publicURL
     }
   }

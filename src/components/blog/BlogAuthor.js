@@ -48,7 +48,7 @@ const BlogAuthor = () => {
         <Img
           fluid={myData.portrait.childImageSharp.fluid}
           title="Boo & Bae"
-          alt="photo from side of me looking left with sunset beach in background"
+          alt="photo inspired by canva"
           style={{
             height: '50px',
             width: '50px',
