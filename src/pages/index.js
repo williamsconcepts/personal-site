@@ -37,9 +37,10 @@ const Index = ({ path, data }) => {
       <IndexPageWrapper>
         <div className="indexIntro">
           <h1 className="headline">
-            Boo codes,
-            <br />Bae blogs,
-            <br />We create contents.
+            - HEAR IT
+            <br />- READ IT
+            <br />- SHARE IT
+            <br />- LIVE IT
           </h1>
           <ul className="introSocialLinks">
             <li>

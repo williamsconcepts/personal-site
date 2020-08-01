@@ -14,7 +14,7 @@ type: "tutorial"
 ---
 
 
-You want to be ```number 1``` at whatever it is that you enjoy doing.
+You want to be ```Number 1``` at whatever it is that you enjoy doing.
 But you should never stop evolving along the way. You keep redefining. If you pick something arbitrary, such as becoming the fastest runner in the world, then you'll have to beat Usain Bolt. Which is too hard of a task.
 
 ```Escape competition through authenticity```
