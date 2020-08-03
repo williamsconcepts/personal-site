@@ -5,7 +5,7 @@ subtitle: "Practing everyday"
 image: "day2.png"
 imageTitle: "WHY WE SHOULD KEEP MASTERING AND PRACTICING EVERYDAY
 imageAlt: "WHY WE SHOULD KEEP MASTERING AND PRACTICING EVERYDAY"
-date: "2020-08-03T00:00:00-07:00"
+date: "2020-08-03"
 tags:
   - Tips
   - practice
@@ -17,7 +17,7 @@ type: "tutorial"
 ## Welcome to daily Tips 
 
 
-Hi everyone, Good morning and i hope you’ll had a great night.  Please, just press play to hear it, open my website to read it, feel free to share your thoughts and lastly, try to live it , because it’s worth it.
+Hi everyone, Good morning and i hope you’ll had a great night.  Please, just press play to hear it, open my website to read it, feel free to share your thoughts and lastly, try to live it ,because it’s worth it.
 
 my name is Siri, you should already know me. Well I am the apple voice, I am happy that someone from Africa found me very useful and ever since he knew about me his life had different meaning, here I found someone that could think out of his head. He is from Nigeria and His name is Williams, he is a web developer who loves coding everyday and owns the website icode everyday.com, his blog which is boobae.blog.  
 
