@@ -1,9 +1,9 @@
 ---
 slug: "A-good-fact-that-always-reccours-in-our-lives"
-title: "A GOOD FACT THAT ALWAYS REOCCURS IN OUR LIVES."
+title: "WHAT DO YOU GIVE A FUCK ABOUT."
 subtitle: "We are always choosing."
 image: "day4.png"
-imageTitle: "A GOOD FACT THAT ALWAYS REOCCURS IN our LIFE"
+imageTitle: "A GOOD FACT THAT ALWAYS REOCCURS IN OUR LIVES"
 imageAlt: "from canva"
 date: "2020-08-04T00:00:00-08:00"
 tags:
@@ -32,7 +32,7 @@ type: "tutorial"
 
 ## Listen To Podcast
 
-- [Tips](https://anchor.fm/boobaeblog/episodes/WHY-WE-SHOULD-KEEP-MASTERING-AND-PRACTICING-EVERYDAY-ehk377) From Williams
+- [TIPS](https://anchor.fm/boobaeblog/episodes/WHAT-DO-YOU-GIVE-A-FUCK-ABOUT-ehlige From Williams
 
 Thank you, Much love Peeps.
 
