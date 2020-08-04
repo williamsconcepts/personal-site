@@ -1,6 +1,6 @@
 ---
 slug: "A-good-fact-that-always-reccours-in-our-lives"
-title: "WHAT DO YOU GIVE A FUCK ABOUT."
+title: "WHAT DO YOU GIVE A FUCK ABOUT ?"
 subtitle: "We are always choosing."
 image: "day4.png"
 imageTitle: "A GOOD FACT THAT ALWAYS REOCCURS IN OUR LIVES"
