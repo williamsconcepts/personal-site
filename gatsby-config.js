@@ -13,8 +13,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Boo & Bae',
-        short_name: 'JDCastro',
+        name: 'Daily Tips',
+        short_name: 'Daily Self-improvement Tips',
         start_url: '/',
         background_color: '#000',
         theme_color: '#353535',
