@@ -31,4 +31,4 @@ Today he has a little Tip to share with you’ll from his notes, so stay tuned a
 
 ## Listen To Podcast
 
-- [Tips](https://anchor.fm/boobaeblog/episodes/WHY-WE-SHOULD-KEEP-MASTERING-AND-PRACTICING-EVERYDAY-ehk377) From Williams
+- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/WHY-WE-SHOULD-KEEP-MASTERING-AND-PRACTICING-EVERYDAY-ehk377) - From Williams

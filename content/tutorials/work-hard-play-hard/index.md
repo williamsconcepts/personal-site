@@ -28,6 +28,6 @@ The 2 concepts you focus on are:
 
 ## Listen To Podcast
 
-- [Tips](https://anchor.fm/boobaeblog/episodes/How-Siris-Voice-Made-Me-Productive-Today-ehj2n9) From Williams
+- [ Click To Play Podcast ] (https://anchor.fm/boobaeblog/episodes/How-Siris-Voice-Made-Me-Productive-Today-ehj2n9) - From Williams
 
 Much love Peeps.

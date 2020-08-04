@@ -32,7 +32,7 @@ type: "tutorial"
 
 ## Listen To Podcast
 
-- [ Click To Play ](https://anchor.fm/boobaeblog/episodes/WHAT-DO-YOU-GIVE-A-FUCK-ABOUT-ehlige) From Williams
+- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/WHAT-DO-YOU-GIVE-A-FUCK-ABOUT-ehlige) - From Williams
 
 Thank you, Much love Peeps.
 
