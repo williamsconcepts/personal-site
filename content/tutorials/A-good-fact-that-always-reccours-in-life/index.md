@@ -23,11 +23,12 @@ type: "tutorial"
 
 ## WE ARE ALWAYS CHOOSING.
 
-> There is a simple realization from which all personal improvement and growth emarges, This is the realization that we, Individually, are responsible for everything in our lives, no matter the external circumstances we face.
+> There is a simple realization from which all personal improvement and growth emerges, This is the realization that we Individuals are responsible for everything in our lives, no matter the external circumstances we face.
 
-> We don't always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond. whether we consciously recognize it or not, we are always responsible for our experience.
+> We don't always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond. whether we consciously recognise it or not, we are always responsible for our experience.
 
-> So whether we like it or not, we taking an active role in what's occuring to and within us.
+> So whether we like it or not, we taking an active role in what's occurring to and within us.
+
 
 ## Listen To Podcast
 
