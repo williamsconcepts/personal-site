@@ -1,6 +1,6 @@
 ---
 slug: "work-hard-play-hard-keep-strength"
-title: "Productise yourself"
+title: "PRODUCTISE YOURSELF"
 subtitle: "A Tip on how to be productive"
 image: "2.jpg"
 imageTitle: "Productise yourself"
@@ -25,5 +25,9 @@ The 2 concepts you focus on are:
 - I want to be the best at what I do
 - What I do is flexible so that I am the best at it.
 - Keep this in mind and keep applying it. Until you've found something that resonates with you and keeps you authentic.
+
+## Listen To Podcast
+
+- [Tips](https://anchor.fm/boobaeblog/episodes/How-Siris-Voice-Made-Me-Productive-Today-ehj2n9) From Williams
 
 Much love Peeps.

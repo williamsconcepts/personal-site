@@ -23,7 +23,7 @@ const BlogListing = ({ data }) => {
         aria-label={`Read Blog post: ${frontmatter.title}`}
       >
         <h2>
-          {frontmatter.type === 'tutorial' && '[Tips] '}
+          {frontmatter.type === 'tutorial'}
           {frontmatter.title}
         </h2>
         <ul>
@@ -40,7 +40,7 @@ const BlogListing = ({ data }) => {
         <p>{excerpt}</p>
         {data.timeToRead &&
           (frontmatter.type === 'tutorial' ? (
-            <h4>Approx. {data.timeToRead + 8} minutes to complete</h4>
+            <h4>Approx. {data.timeToRead + 1} minutes to complete</h4>
           ) : (
             <h4>{data.timeToRead} minute read</h4>
           ))}

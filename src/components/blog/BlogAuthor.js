@@ -47,7 +47,7 @@ const BlogAuthor = () => {
       <div className="portrait">
         <Img
           fluid={myData.portrait.childImageSharp.fluid}
-          title="Boo & Bae"
+          title="Williams"
           alt="photo inspired by canva"
           style={{
             height: '50px',

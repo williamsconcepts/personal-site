@@ -1,14 +1,14 @@
 ---
 slug: "WHY-WE-SHOULD-KEEP-MASTERING-AND-PRACTICING-EVERYDAY"
 title: "WHY WE SHOULD KEEP MASTERING AND PRACTICING EVERYDAY"
-subtitle: "Practing everyday"
-image: "day2.png"
-imageTitle: "WHY WE SHOULD KEEP MASTERING AND PRACTICING EVERYDAY
-imageAlt: "WHY WE SHOULD KEEP MASTERING AND PRACTICING EVERYDAY"
-date: "2020-08-03"
+subtitle: "why you should keep Practing everyday"
+image: "day2.jpg"
+imageTitle: "WHY WE SHOULD KEEP MASTERING AND PRACTICING EVERYDAY"
+imageAlt: "from canva"
+date: "2020-08-03T00:00:00-08:00"
 tags:
   - Tips
-  - practice
+  - Siri
   - self-improvement
 type: "tutorial"
 ---
@@ -27,4 +27,8 @@ Today he has a little Tip to share with you’ll from his notes, so stay tuned a
 
 - if we keep practicing, we gain fluency and basic skills are mastered, allowing us to take on newer and more exciting challenges.
 
-When we do this, we begin to see connections that were invisible to us before, we slowly gain confidence in our ability to solve problems or overcome weakness through sheer persistence.
+> When we do this, we begin to see connections that were invisible to us before, we slowly gain confidence in our ability to solve problems or overcome weakness through sheer persistence.
+
+## Listen To Podcast
+
+- [Tips](https://anchor.fm/boobaeblog/episodes/WHY-WE-SHOULD-KEEP-MASTERING-AND-PRACTICING-EVERYDAY-ehk377) From Williams
