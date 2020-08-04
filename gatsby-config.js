@@ -13,11 +13,11 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Daily Tips',
-        short_name: 'Daily Self-improvement Tips',
+        name: 'Daily Self-improvement Tips',
+        short_name: 'Daily Tips',
         start_url: '/',
-        background_color: '#000',
-        theme_color: '#353535',
+        background_color: '#f7f7f7',
+        theme_color: '#f7f7f7',
         lang: 'en',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
