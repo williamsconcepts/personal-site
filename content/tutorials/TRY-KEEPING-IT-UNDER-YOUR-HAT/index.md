@@ -1,11 +1,11 @@
 ---
-slug: "YOU-ARE-ALWAYS-RESPONSIBLE"
-title: "YOU ARE ALWAYS RESPONSIBLE FOR YOU LIFE"
-subtitle: "YOU ARE ALWAYS RESPONSIBLE."
-image: "day5.png"
-imageTitle: "A GOOD FACT THAT ALWAYS REOCCURS IN OUR LIVES"
+slug: "TRY-TO-KEEP-IT-UNDER-YOUR-HAT"
+title: "TRY TO KEEP IT UNDER YOUR HAT"
+subtitle: "TRY TO KEEP IT UNDER YOUR HAT."
+image: "try.png"
+imageTitle: "TRY TO KEEP IT UNDER YOUR HAT"
 imageAlt: "from canva"
-date: "2020-08-04T00:00:00-08:00"
+date: "2020-08-05T00:00:00-08:00"
 tags:
   - Tips
   - Siri
@@ -14,27 +14,27 @@ type: "tutorial"
 ---
 
 
+Listening to daily podcasts gets to enhance your thinking, because they seem like the first nice motivative words you hear in the morning, that gives you a sort of energy to be positive in that day and the latter days.
+
 ## Welcome to daily Tips 
 
  
 >Today i have a little Tip to share with you’ll from my note, so stay tuned and hear the nice TIP for today, it might be helpful.
 
 
-## YOU ARE RESPONSIBLE FOR YOUR SUCCESS.
+## TRY TO KEEP IT UNDER YOUR HAT.
 
-> - Just as everyone is head bent on being successful, just a few knows what it takes to achieve success. Researches and life experiences has shown that persistence, perseverance and consistency has always been paid off on the road of success. Be responsible for each step you take an d make it count.
+> - You are about to embark on a life-changing adventure, possibly, if you choose to accept you mission. you are about to discover ways to become positive, happy , and successful in everything you do. so there’s no need to say anything to anybody about it. Just Try to keep it quiet. No one actually likes a smart Arse. That’s it, you just have to always keep it under your hat and keep moving.
 
-## SUCCESS AT WORK.
 
-> - As a worker, everyone  hunger for success, to be amongst the top but it takes a great deal of work and persistence.
-> - just like Brian Tracy said, To achieve success, you have to come in a little earlier, work a little harder, and stay a little later. this also applies to our everyday life.
-> - whatever you do, apply the earlier, harder and later rule and be consistent with it. 
-> - form new habits and make it worth your while.
+## ILLUSTRATION
+
+> - Finally, yes, time does heal, and things do get better as you get older. After all, the more mistake you’ve made, the less likely that you will come up with new ones. the best things is that if you get a lot of your mistakes over and done with early on in life, there will be less to learn the hard way later on. And that’s what youth is all about: a chance to make all the mistakes you can and get them out of the way.
 
 
 ## Listen To Podcast
 
-- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/WHAT-DO-YOU-GIVE-A-FUCK-ABOUT-ehlige) - From Bae
+- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/WHAT-DO-YOU-GIVE-A-FUCK-ABOUT-ehlige) - From Williams
 
 Thank you, Much love Peeps.
 
