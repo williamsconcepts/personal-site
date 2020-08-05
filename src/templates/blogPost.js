@@ -98,7 +98,7 @@ const blogPost = ({ path, data }) => {
 
         <div className="closing">
           <JDCLogo />
-          <h3>- Boo & Bae</h3>
+          <h3>- BOOBAE</h3>
         </div>
       </BlogPostPageWrapper>
     </Layout>

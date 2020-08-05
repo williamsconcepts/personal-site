@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1fa96af5-969b-4e48-8e64-13d192b13960/deploy-status)](https://app.netlify.com/sites/boobae/deploys)
 
-# Boo & Bae Personal Site
+# BOOBAE Personal Site
 
 > Version 1.0 is currently in the works!
 

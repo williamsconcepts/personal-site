@@ -28,7 +28,7 @@ const Header = () => {
         <div id="logo">
           <Link to="/" aria-label="to home page">
             <LogoSVG />
-            {/* <h2>-Boo & Bae</h2> */}
+            {/* <h2>-BOOBAE</h2> */}
           </Link>
         </div>
 

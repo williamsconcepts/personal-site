@@ -31,7 +31,7 @@ const MobileNav = ({ mobileNavIsOpen, action }) => {
             </li>
               <li>
                 <Link activeClassName="activePage" to="/about">
-                  About Us
+                  About
                 </Link>
               </li>
               <li>

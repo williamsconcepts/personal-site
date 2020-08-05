@@ -56,7 +56,7 @@ const Head = ({ seo }) => {
   return (
     <Helmet>
       <title>
-        {seo.title && `${seo.title} | `}Boo & Bae - Fullstack JavaScript
+        {seo.title && `${seo.title} | `}BOOBAE - Fullstack JavaScript
         Developer
       </title>
       <meta name="Description" content={seo.description} />
@@ -70,7 +70,7 @@ const Head = ({ seo }) => {
       <meta
         property="og:title"
         content={`${seo.title &&
-          seo.title + ' | '}Boo & Bae - Fullstack JavaScript Developer`}
+          seo.title + ' | '}BOOBAE - Fullstack JavaScript Developer`}
       />
       <meta property="og:description" content={seo.description} />
       <meta property="og:url" content={seo.url} />
@@ -91,7 +91,7 @@ const Head = ({ seo }) => {
       <meta
         property="twitter:title"
         content={`${seo.title &&
-          seo.title + ' | '}Boo & Bae - Fullstack JavaScript Developer`}
+          seo.title + ' | '}BOOBAE - Fullstack JavaScript Developer`}
       />
       <meta property="twitter:description" content={seo.description} />
       <meta property="twitter:image" content={`${url}${seo.imgUrl}`} />
@@ -107,7 +107,7 @@ const Head = ({ seo }) => {
           jobTitle: 'Web Developer',
           name: 'Jacob Castro',
           additionalName: 'Daniel',
-          alternateName: 'Boo & Bae',
+          alternateName: 'BOOBAE',
           givenName: 'Jacob Daniel Castro',
           description: `${miniBio}`,
           birthPlace: 'Santa Barbara, CA',

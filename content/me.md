@@ -1,7 +1,7 @@
 ---
 lastUpdated: "2020-07-31"
 title: "Biography"
-name: "Boo & Bae"
+name: "BOOBAE"
 email: "boobaeblog@gmail.com"
 phone: "+234 8035930341"
 url: "https://boobae.blog"
