@@ -34,7 +34,7 @@ type: "tutorial"
 
 ## Listen To Podcast
 
-- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/WHAT-DO-YOU-GIVE-A-FUCK-ABOUT-ehlige) - From williams
+- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/YOU-ARE-ALWAYS-RESPONSIBLE-FOR-YOUR-LIFE-ehol66) - From williams
 
 Thank you, Much love Peeps.
 

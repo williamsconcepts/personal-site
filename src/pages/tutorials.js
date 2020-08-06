@@ -15,7 +15,7 @@ const Tutorials = ({ path, data }) => {
       "We love learning new things!! These are me restating what I've learned to you peeps, in hopes of solidifying my learning and lending a hand along the way.",
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
-      'jdcastro logo, twitter, instagram, facebook, github icons with @boobaeblog username',
+      'boobae logo, twitter, instagram, facebook, github icons with @boobaeblog username',
     breadcrumbs: [
       {
         name: 'TIPS',
