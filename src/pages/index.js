@@ -5,6 +5,7 @@ import Layout from '../templates/layout';
 import { IndexPageWrapper } from '../styles/index/IndexStyles';
 import BlogListing from '../components/index/BlogListing';
 
+import Logo from '../images/svg/LogoSVG';
 import Twitter from '../images/svg/TwitterSVG';
 import Instagram from '../images/svg/InstagramSVG';
 import Linkedin from '../images/svg/LinkedinSVG';
@@ -28,7 +29,7 @@ const Index = ({ path, data }) => {
     url: 'https://boobae.blog',
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
-      'jdcastro logo, twitter, instagram, facebook, github icons with @williamsconcepts username',
+      'boobae logo, twitter, instagram, facebook, github icons with @williamsconcepts username',
     breadcrumbs: [],
   };
 
@@ -36,12 +37,20 @@ const Index = ({ path, data }) => {
     <Layout seo={seo} path={path}>
       <IndexPageWrapper>
         <div className="indexIntro">
+        
           <h1 className="headline">
-            - HEAR IT
+          
+          <Logo />
+            {/* - HEAR IT
             <br />- READ IT
             <br />- SHARE IT
-            <br />- LIVE IT
+            <br />- LIVE IT */}
           </h1>
+
+          
+
+          
+
           <ul className="introSocialLinks">
             <li>
               <a

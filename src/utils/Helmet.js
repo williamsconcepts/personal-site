@@ -56,8 +56,7 @@ const Head = ({ seo }) => {
   return (
     <Helmet>
       <title>
-        {seo.title && `${seo.title} | `}BOOBAE - Fullstack JavaScript
-        Developer
+        {seo.title && `${seo.title} | `}BOOBAE - Daily Tips From Siri
       </title>
       <meta name="Description" content={seo.description} />
       <meta name="description" content={seo.description} />
@@ -70,7 +69,7 @@ const Head = ({ seo }) => {
       <meta
         property="og:title"
         content={`${seo.title &&
-          seo.title + ' | '}BOOBAE - Fullstack JavaScript Developer`}
+          seo.title + ' | '}BOOBAE - Daily Tips From Siri`}
       />
       <meta property="og:description" content={seo.description} />
       <meta property="og:url" content={seo.url} />
@@ -91,7 +90,7 @@ const Head = ({ seo }) => {
       <meta
         property="twitter:title"
         content={`${seo.title &&
-          seo.title + ' | '}BOOBAE - Fullstack JavaScript Developer`}
+          seo.title + ' | '}BOOBAE - Daily Tips From Siri`}
       />
       <meta property="twitter:description" content={seo.description} />
       <meta property="twitter:image" content={`${url}${seo.imgUrl}`} />
@@ -105,15 +104,15 @@ const Head = ({ seo }) => {
           email: `mailto:${email}`,
           image: '',
           jobTitle: 'Web Developer',
-          name: 'Jacob Castro',
-          additionalName: 'Daniel',
+          name: 'Williams Chuddy',
+          additionalName: 'Chidi',
           alternateName: 'BOOBAE',
-          givenName: 'Jacob Daniel Castro',
+          givenName: 'Williamd Chuddy',
           description: `${miniBio}`,
-          birthPlace: 'Santa Barbara, CA',
-          birthDate: '1997-05-27',
+          birthPlace: 'Imo state, NG',
+          birthDate: '1998-11-02',
           gender: 'male',
-          nationality: 'United States of America',
+          nationality: 'Nigeria',
           url: `${url}`,
           sameAs: [
             `${twitterURL}`,
