@@ -21,23 +21,23 @@ const MobileNav = ({ mobileNavIsOpen, action }) => {
               </li>
               <li>
                 <Link activeClassName="activePage" to="/tutorials">
-                  Tips
+                Daily Tips
                 </Link>
               </li>
               <li>
               <Link activeClassName="activePage" to="https://anchor.fm/boobaeblog">
-                Podcast
+               Podcast
               </Link>
             </li>
               <li>
-                <Link activeClassName="activePage" to="/about">
+                {/* <Link activeClassName="activePage" to="/about">
                   About
-                </Link>
+                </Link> */}
               </li>
               <li>
-                <Link activeClassName="activePage" to="/contact">
+                {/* <Link activeClassName="activePage" to="/contact">
                  Say Hi
-                </Link>
+                </Link> */}
               </li>
             </ul>
           </nav>

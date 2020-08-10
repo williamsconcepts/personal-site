@@ -41,7 +41,7 @@ const Header = () => {
             </li>
             <li>
               <Link activeClassName="activePage" to="/tutorials">
-                Tips
+               Daily Tips
               </Link>
             </li>
             <li>
@@ -50,14 +50,14 @@ const Header = () => {
               </Link>
             </li>
             <li>
-              <Link activeClassName="activePage" to="/about">
+              {/* <Link activeClassName="activePage" to="/about">
                 About Us
-              </Link>
+              </Link> */}
             </li>
             <li>
-              <Link activeClassName="activePage" to="/contact">
+              {/* <Link activeClassName="activePage" to="/contact">
                 Say Hi
-              </Link>
+              </Link> */}
             </li>
           </ul>
         </nav>
