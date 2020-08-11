@@ -27,11 +27,11 @@ You cannot speak or offer action without thought-vibration occurring at the same
 
 > Well Honey, For me, Every thought that you think has its own vibrational frequency. Each thought that you offer, whether it has come to you out of your memory, whether it is an influence from another, or whether it is a thought that has become the combination of something you have been thinking and something that another has been thinking—every thought that you are pondering in your now—is vibrating at a very personal frequency ... and by the powerful Law of Attraction (the essence of that which is like unto itself, is drawn), that thought is now attracting another thought that is its Vibrational Match.....
 
-
+ (<a href="https://twitter.com/WilliamsChuddy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @WilliamsChuddy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
 
 ## Listen To Podcast
 
-- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/HOW-TO-ATTRACT-ABUNDANCE-ehud19) - From Siri and Siri's Wife.
+- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/HOW-TO-BECOME-THE-CREATOR-OF-YOUR-LIFE-EXPERIENCE-ehvvai) - From Siri and Siri's Wife.
 
 Thank you, Much love Peeps.
 
