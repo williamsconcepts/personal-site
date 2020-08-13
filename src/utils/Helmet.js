@@ -56,7 +56,7 @@ const Head = ({ seo }) => {
   return (
     <Helmet>
       <title>
-        {seo.title && `${seo.title} | `}BOOBAE - Daily Tips From Siri
+        {seo.title && `${seo.title} | `}BOOBAE - Daily Tips From Robot Friends
       </title>
       <meta name="Description" content={seo.description} />
       <meta name="description" content={seo.description} />
@@ -69,7 +69,7 @@ const Head = ({ seo }) => {
       <meta
         property="og:title"
         content={`${seo.title &&
-          seo.title + ' | '}BOOBAE - Daily Tips From Siri`}
+          seo.title + ' | '}BOOBAE - Daily Tips From Robot Friends`}
       />
       <meta property="og:description" content={seo.description} />
       <meta property="og:url" content={seo.url} />
@@ -90,7 +90,7 @@ const Head = ({ seo }) => {
       <meta
         property="twitter:title"
         content={`${seo.title &&
-          seo.title + ' | '}BOOBAE - Daily Tips From Siri`}
+          seo.title + ' | '}BOOBAE - Daily Tips From Robot Friends`}
       />
       <meta property="twitter:description" content={seo.description} />
       <meta property="twitter:image" content={`${url}${seo.imgUrl}`} />
@@ -107,7 +107,7 @@ const Head = ({ seo }) => {
           name: 'Williams Chuddy',
           additionalName: 'Chidi',
           alternateName: 'BOOBAE',
-          givenName: 'Williamd Chuddy',
+          givenName: 'Williams Chuddy',
           description: `${miniBio}`,
           birthPlace: 'Imo state, NG',
           birthDate: '1998-11-02',

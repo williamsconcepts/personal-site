@@ -1,7 +1,7 @@
 import Typography from 'typography';
 
 const typography = new Typography({
-  baseFontSize: '16px',
+  baseFontSize: '12px',
   baseLineHeight: '1.666',
   headerFontFamily: ['Montserrat', 'sans-serif'],
   bodyFontFamily: ['Open Sans', 'sans-serif'],
