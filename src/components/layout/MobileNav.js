@@ -25,7 +25,7 @@ const MobileNav = ({ mobileNavIsOpen, action }) => {
                 </Link>
               </li>
               <li>
-              <Link activeClassName="activePage" to="https://anchor.fm/boobaeblog">
+              <Link activeClassName="activePage" to="https://bpode.com">
                Podcast
               </Link>
             </li>
