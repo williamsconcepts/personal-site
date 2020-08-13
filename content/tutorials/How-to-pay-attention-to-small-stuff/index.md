@@ -42,7 +42,7 @@ Make no mistake about it. God won’t love you any more just because you do cert
 
  (<a href="https://twitter.com/WilliamsChuddy?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @WilliamsChuddy</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
 
- 
+
 
 ## Listen To Podcast
 
