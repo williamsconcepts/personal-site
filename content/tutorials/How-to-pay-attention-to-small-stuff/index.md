@@ -1,6 +1,6 @@
 ---
 slug: "How-to-pay-attention-to-small-stuff"
-title: "HOW TO PAY ATTETION TO SMALL STUFF"
+title: "HOW TO PAY ATTENTION TO SMALL STUFF"
 subtitle: "With BOOBAE & SIRI."
 image: "day9.png"
 imageTitle: "How-to-pay-attention-to-small-stuff"
