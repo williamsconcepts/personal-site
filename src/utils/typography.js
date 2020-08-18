@@ -1,13 +1,13 @@
 import Typography from 'typography';
 
 const typography = new Typography({
-  baseFontSize: '12px',
+  baseFontSize: '20px',
   baseLineHeight: '1.666',
-  headerFontFamily: ['Montserrat', 'sans-serif'],
-  bodyFontFamily: ['Open Sans', 'sans-serif'],
+  headerFontFamily: ['Baloo Tamma 2', 'cursive'],
+  bodyFontFamily: ['Baloo Tamma 2', 'cursive'],
   googleFonts: [
     {
-      name: 'Montserrat',
+      name: 'Baloo Tamma 2',
       styles: ['800', '400'],
     },
     {

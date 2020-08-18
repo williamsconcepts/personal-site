@@ -28,6 +28,8 @@ const Tutorials = ({ path, data }) => {
     <Layout seo={seo} path={path}>
       <TutorialsPageWrapper>
         <h1>Daily Tips!</h1>
+      
+
         <div className="tutorialsList">
           {data.allMarkdownRemark.edges.map(({ node }) => (
             <BlogListing key={node.id} data={node} />
