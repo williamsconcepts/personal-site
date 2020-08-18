@@ -36,7 +36,7 @@ const Header = () => {
           <ul>
             <li>
               <Link activeClassName="activePage" to="/blog">
-                Blog
+                Quotes
               </Link>
             </li>
             <li>
