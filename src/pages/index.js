@@ -95,7 +95,7 @@ const Index = ({ path, data }) => {
             <li>
               <a
                 target="_blank"
-                // href={data.resume.publicURL}
+                href={data.resume.publicURL}
                 rel="noopener"
                 aria-label="My Resume"
               >
@@ -140,7 +140,7 @@ export const INDEX_PAGE_QUERY = graphql`
     # all blog posts, sorted by most recent
     allMarkdownRemark(
       sort: { fields: frontmatter___date, order: DESC }
-      filter: { frontmatter: { type: { in: ["blogPost", "tutorial"] } } }
+      filter: { frontmatter: { type: { in: ["tutorial"] } } }
     ) {
       edges {
         node {
