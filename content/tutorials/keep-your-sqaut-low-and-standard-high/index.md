@@ -14,7 +14,7 @@ type: "tutorial"
 ---
 
 
-## KEEP YOUR SQUATS LOW AND YOUR STANDARDS HIGH.
+## KEEP YOUR SQUATS LOW AND YOUR STANDARDS HIGH
 
 
 > This sentence could mean a lot of things.
@@ -26,12 +26,11 @@ type: "tutorial"
 ## Always know that you live for yourself.
 
 > This doesn’t necessarily mean  looking down on people, not considering people feelings, but live a life of your own. don’t seek to  impress rather seek to impact. Aim high and live that life you desire.
-  
->  - your outcome is a lagging measure of your habits.
-  
+> 
+> - your outcome is a lagging measure of your habits.
+> 
 > - Just like your net worth is a lagging measure of your financial habits, every habit you form amounts to something; either good or bad. 
-
-
+>
 > - This good habits can be said to be the building blocks of good outcomes or results.
 
 

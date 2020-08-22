@@ -95,7 +95,7 @@ const Index = ({ path, data }) => {
             <li>
               <a
                 target="_blank"
-                href={data.resume.publicURL}
+                // href={data.resume.publicURL}
                 rel="noopener"
                 aria-label="My Resume"
               >

@@ -17,10 +17,6 @@ type: "tutorial"
 ## Welcome to daily Tips 
 
 
-
-
-
- 
 >Today i have a little Tip to share with you’ll from my note, so stay tuned and hear the nice TIP for today, it might be helpful.
 
 

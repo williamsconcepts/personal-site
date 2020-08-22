@@ -16,7 +16,7 @@ const Blog = ({ path, data }) => {
     url: 'https://boobae.blog/blog',
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
-      'jdcastro logo, twitter, instagram, facebook, github icons with @williamsconcepts username',
+      'boobae logo, twitter, instagram, facebook, github icons with @williamsconcepts username',
     breadcrumbs: [
       {
         name: 'Blog',
@@ -28,7 +28,7 @@ const Blog = ({ path, data }) => {
   return (
     <Layout seo={seo} path={path}>
       <BlogPageWrapper>
-        <h1>Blog Posts</h1>
+        <h1>Quotes</h1>
         <div className="blogPostList">
           {data.allMarkdownRemark.edges.map(({ node }) => (
             <BlogListing key={node.id} data={node} />
