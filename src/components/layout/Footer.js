@@ -129,7 +129,7 @@ const Footer = () => {
         href="https://github.com/williamsconcepts/personal-site/releases"
         rel="noopener"
       >
-        v2.3.5
+        v1.0
       </a>
       <a href={`${url}/sitemap.xml`}>Sitemap</a>
       <small>&copy;{new Date().getFullYear()} - BooBaeBlog</small>

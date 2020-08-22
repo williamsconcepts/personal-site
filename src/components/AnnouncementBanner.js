@@ -11,12 +11,12 @@ const Wrapper = styled.span`
 const AnnouncementBanner = () => {
   return (
     <Wrapper>
-      Version 1 of this website is currently in the works!
-      <br /> Check out the{' '}
-      <a href="https://github.com/williamsconcepts/personal-site/tree/development">
-        development branch
+      Improve Yourself Very Day!
+      <br /> Feel free to listen to {' '}
+      <a href="https://anchor.fm/boobaeblog/">
+      the podcast
       </a>{' '}
-      for a sneak peek.
+      for Daily Tips.
     </Wrapper>
   );
 };
