@@ -12,7 +12,7 @@ const AnnouncementBanner = () => {
   return (
     <Wrapper>
       Improve Yourself Very Day!
-      <br /> Feel free to Listen to {' '}
+      <br /> Feel Free to Listen to {' '}
       <a href="https://anchor.fm/boobaeblog/">
       the podcast
       </a>{' '}
