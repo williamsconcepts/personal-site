@@ -64,6 +64,7 @@
     "smooth-scroll": "^16.1.1",
     "styled-components": "^4.4.1",
     "typography": "^0.16.18",
+    "u": "^0.1.0",
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {

@@ -16,7 +16,7 @@ const MobileNav = ({ mobileNavIsOpen, action }) => {
             <ul>
               <li>
                 <Link activeClassName="activePage" to="/blog">
-                Quotes
+                Index Cards
                 </Link>
               </li>
               <li>
