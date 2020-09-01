@@ -12,7 +12,7 @@ const Blog = ({ path, data }) => {
     title: 'Blog',
     description:
       // eslint-disable-next-line quotes
-      "I like writing about things. Life updates, random epiphanies, cool lessons, etc. Find 'em here!",
+      "I Love writing. Life updates, random epiphanies, Stoics, cool lessons, etc. Find 'em here!",
     url: 'https://boobae.blog/blog',
     imgUrl: `${data.pageImg.publicURL}`,
     imgAlt:
