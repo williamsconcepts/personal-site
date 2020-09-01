@@ -28,7 +28,7 @@ const Blog = ({ path, data }) => {
   return (
     <Layout seo={seo} path={path}>
       <BlogPageWrapper>
-        <h3>Start from the first</h3>
+        <h2>Start 👉🏻 #1</h2>
         <div className="blogPostList">
           {data.allMarkdownRemark.edges.map(({ node }) => (
             <BlogListing key={node.id} data={node} />
