@@ -45,7 +45,7 @@ const Header = () => {
               </Link>
             </li>
             <li>
-              <Link activeClassName="activePage" to="https://bpode.com">
+              <Link activeClassName="activePage" to="https://anchor.fm/boobaeblog">
                 Podcast
               </Link>
             </li>
