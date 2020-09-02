@@ -11,10 +11,10 @@ const Wrapper = styled.span`
 const AnnouncementBanner = () => {
   return (
     <Wrapper>
-      Improve Yourself Very Day!
+      Improve Yourself Every Day!
       <br /> Feel Free to Listen to {' '}
       <a href="https://anchor.fm/boobaeblog/">
-      the podcast
+      my podcast
       </a>{' '}
       for Daily Tips.
     </Wrapper>
