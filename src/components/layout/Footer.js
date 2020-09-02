@@ -101,7 +101,7 @@ const Footer = () => {
         </span>
       </span>
       <div className="stackIcons">
-        <h4>This website built with:</h4>
+        <h4>This website was built with:</h4>
         <ul>
           {images.map((m, i) => {
             const { img, url, title, alt } = m;
@@ -129,7 +129,7 @@ const Footer = () => {
         href="https://github.com/williamsconcepts/personal-site/releases"
         rel="noopener"
       >
-        v1.0
+        v 1.0
       </a>
       <a href={`${url}/sitemap.xml`}>Sitemap</a>
       <small>&copy;{new Date().getFullYear()} - BooBaeBlog</small>
