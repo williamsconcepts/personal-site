@@ -60,9 +60,8 @@ const Head = ({ seo }) => {
       </title>
       <meta name="Description" content={seo.description} />
       <meta name="description" content={seo.description} />
-      <meta
-        name="google-site-verification"
-        content="XxzBu338e5a9ZGebqx3Z0cDepD0hAZLEmUkyNEmBf9Q"
+      <meta name="google-site-verification" 
+      content="RreIiMRSNgjHbZrLC3hhCNvlTbsoCfT6aGt4TGcvEF8"
       />
 
       {/* Open Graph meta tags */}
