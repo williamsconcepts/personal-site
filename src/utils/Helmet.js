@@ -136,6 +136,10 @@ const Head = ({ seo }) => {
 
       {/* Mailchimp code embed */}
       <script id="mcjs">{mcEmbed}</script>
+
+      {/*Google Adsense */}
+      <script data-ad-client="ca-pub-5726530166349563" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      
     </Helmet>
   );
 };
