@@ -5,7 +5,8 @@ import { useStaticQuery, graphql } from 'gatsby';
 
 // Mailchimp script for website connection
 const mcEmbed =
-  '!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/acfe9e33f6e477b7d4271061c/33f0b474bec5c1094df95b9ee.js");';
+  '!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/1ec8a818fd29de8564a66ec91/429d65c9a03b79a47ffa4bb80.js");';
+
 
 const Head = ({ seo }) => {
   const data = useStaticQuery(graphql`
