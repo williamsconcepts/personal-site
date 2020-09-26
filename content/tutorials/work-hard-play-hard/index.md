@@ -1,6 +1,6 @@
 ---
 slug: "work-hard-play-hard-keep-strength"
-title: "PRODUCTISE YOURSELF"
+title: "Productise Yourself."
 subtitle: "A Tip on how to be productive"
 image: "2.jpg"
 imageTitle: "Productise yourself"
@@ -13,11 +13,10 @@ tags:
 type: "tutorial"
 ---
 
-
-You want to be ```Number 1``` at whatever it is that you enjoy doing.
+You want to be `Number 1` at whatever it is that you enjoy doing.
 But you should never stop evolving along the way. You keep redefining. If you pick something arbitrary, such as becoming the fastest runner in the world, then you'll have to beat Usain Bolt. Which is too hard of a task.
 
-```Escape competition through authenticity```
+`Escape competition through authenticity`
 Instead, you keep changing your goal. your specific knowledge, skillsets, capabilities, and interests will evolve along that goal.
 
 The 2 concepts you focus on are:
@@ -28,6 +27,6 @@ The 2 concepts you focus on are:
 
 ## Listen To Podcast
 
-- [ Click To Play Podcast ] (https://anchor.fm/boobaeblog/episodes/How-Siris-Voice-Made-Me-Productive-Today-ehj2n9) - From Williams
+- [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/How-Siris-Voice-Made-Me-Productive-Today-ehj2n9) - From Williams
 
 Much love Peeps.

@@ -1,6 +1,6 @@
 ---
 slug: "A-good-fact-that-always-reccours-in-our-lives"
-title: "WHAT DO YOU GIVE A FUCK ABOUT ?"
+title: "What Do You Give a Fuck About ?"
 subtitle: "We are always choosing."
 image: "day4.png"
 imageTitle: "A GOOD FACT THAT ALWAYS REOCCURS IN OUR LIVES"
@@ -13,13 +13,11 @@ tags:
 type: "tutorial"
 ---
 
+## Welcome to daily Tips
 
-## Welcome to daily Tips 
+> Hi everyone, Good morning and i hope you’ll had a great night. Please, just press play to hear it, open my website to read it, feel free to share your thoughts and lastly, try to live it ,because it’s worth it.
 
-
->Hi everyone, Good morning and i hope you’ll had a great night.  Please, just press play to hear it, open my website to read it, feel free to share your thoughts and lastly, try to live it ,because it’s worth it.
- 
->Today williams has a little Tip to share with you’ll from his notes, so stay tuned and hear the nice TIP for today, it might be helpful.
+> Today williams has a little Tip to share with you’ll from his notes, so stay tuned and hear the nice TIP for today, it might be helpful.
 
 ## WE ARE ALWAYS CHOOSING.
 
@@ -29,11 +27,8 @@ type: "tutorial"
 
 > So whether we like it or not, we taking an active role in what's occurring to and within us.
 
-
 ## Listen To Podcast
 
 - [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/WHAT-DO-YOU-GIVE-A-FUCK-ABOUT-ehlige) - From Williams
 
 Thank you, Much love Peeps.
-
-

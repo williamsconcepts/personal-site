@@ -1,7 +1,7 @@
 ---
 slug: "YOU-ARE-ALWAYS-RESPONSIBLE"
-title: "YOU ARE ALWAYS RESPONSIBLE FOR YOU LIFE"
-subtitle: "YOU ARE ALWAYS RESPONSIBLE."
+title: "You are Always Responsible For Your Life."
+subtitle: "You are Always Responsible For Your Life."
 image: "day6.png"
 imageTitle: "YOU ARE ALWAYS RESPONSIBLE"
 imageAlt: "from canva"
@@ -13,12 +13,9 @@ tags:
 type: "tutorial"
 ---
 
+## Welcome to daily Tips
 
-## Welcome to daily Tips 
-
-
->Today i have a little Tip to share with you’ll from my note, so stay tuned and hear the nice TIP for today, it might be helpful.
-
+> Today i have a little Tip to share with you’ll from my note, so stay tuned and hear the nice TIP for today, it might be helpful.
 
 ## YOU ARE RESPONSIBLE FOR YOUR SUCCESS.
 
@@ -26,16 +23,13 @@ type: "tutorial"
 
 ## SUCCESS AT WORK.
 
-> - As a worker, everyone  hunger for success, to be amongst the top but it takes a great deal of work and persistence.
+> - As a worker, everyone hunger for success, to be amongst the top but it takes a great deal of work and persistence.
 > - just like Brian Tracy said, To achieve success, you have to come in a little earlier, work a little harder, and stay a little later. this also applies to our everyday life.
-> - whatever you do, apply the earlier, harder and later rule and be consistent with it. 
+> - whatever you do, apply the earlier, harder and later rule and be consistent with it.
 > - form new habits and make it worth your while.
-
 
 ## Listen To Podcast
 
 - [ Click To Play Podcast ](https://anchor.fm/boobaeblog/episodes/YOU-ARE-ALWAYS-RESPONSIBLE-FOR-YOUR-LIFE-ehol66) - From williams
 
 Thank you, Much love Peeps.
-
-

@@ -37,19 +37,13 @@ const Index = ({ path, data }) => {
     <Layout seo={seo} path={path}>
       <IndexPageWrapper>
         <div className="indexIntro">
-        
           <h1 className="headline">
-          
-          <Logo />
+            <Logo />
             {/* - HEAR IT
             <br />- READ IT
             <br />- SHARE IT
             <br />- LIVE IT */}
           </h1>
-
-          
-
-          
 
           <ul className="introSocialLinks">
             <li>
